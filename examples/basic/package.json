@@ -1,7 +1,7 @@
 {
   "name": "backpack-examples-basic",
   "private": true,
-  "version": "0.8.4",
+  "version": "0.8.5",
   "scripts": {
     "start": "node ./build/main.js",
     "dev": "backpack dev",

@@ -1,6 +1,6 @@
 {
   "name": "@paulxuca/backpack-core",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Backpack is a minimalistic build system for Node.js",
   "repository": "palmerhq/backpack",
   "author": "@jaredpalmer",
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.4.5",
-    "@paulxuca/babel-preset-backpack": "^0.8.4",
+    "@paulxuca/babel-preset-backpack": "^0.8.5",
     "babel-loader": "^8.0.6",
     "cross-spawn": "^7.0.3",
     "friendly-errors-webpack-plugin": "^1.7.0",

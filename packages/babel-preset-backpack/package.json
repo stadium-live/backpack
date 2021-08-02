@@ -1,6 +1,6 @@
 {
   "name": "@paulxuca/babel-preset-backpack",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Babel preset for Backpack projects",
   "repository": "palmerhq/backpack",
   "author": "jaredpalmer",
