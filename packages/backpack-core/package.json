@@ -13,16 +13,15 @@
   },
   "dependencies": {
     "@babel/core": "^7.4.5",
+    "@paulxuca/babel-preset-backpack": "^0.8.4",
     "babel-loader": "^8.0.6",
-    "babel-preset-backpack": "^0.8.4",
-    "cross-spawn": "^6.0.5",
+    "cross-spawn": "^7.0.3",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "json-loader": "^0.5.7",
-    "lerna": "^4.0.0",
-    "nodemon": "^1.19.1",
-    "ramda": "^0.26.1",
+    "nodemon": "^2.0.12",
+    "ramda": "^0.27.1",
     "source-map-support": "^0.5.12",
-    "webpack": "^4.35.0",
-    "webpack-node-externals": "^1.7.2"
+    "webpack": "^5.48.0",
+    "webpack-node-externals": "^3.0.0"
   }
 }

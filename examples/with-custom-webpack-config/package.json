@@ -1,6 +1,7 @@
 {
   "name": "backpack-examples-with-custom-webpack-config",
   "version": "0.8.4",
+  "private": true,
   "scripts": {
     "start": "node ./build/main.js",
     "dev": "backpack dev",
