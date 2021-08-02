@@ -104,7 +104,6 @@ module.exports = options => {
       // optimization.noEmitOnErrors prevents Webpack
       // The NoEmitOnErrorsPlugin plugin prevents Webpack
       // from printing out compile time stats to the console.
-      noEmitOnErrors: true,
     },
     plugins: [
       // We define some sensible Webpack flags. One for the Node environment,
