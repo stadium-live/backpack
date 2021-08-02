@@ -44,7 +44,7 @@ module.exports = options => {
     externals: [
       nodeExternals({
         modulesFromFile: true,
-        whitelist: [
+        allowlist: [
           /\.(eot|woff|woff2|ttf|otf)$/,
           /\.(svg|png|jpg|jpeg|gif|ico|webm)$/,
           /\.(mp4|mp3|ogg|swf|webp)$/,
